@@ -20,6 +20,11 @@ In today's world, where remote work and distributed teams are the norm, tools th
 
 ## 🔗 Try It Out! 🔗
 
-### 🌐 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐭𝐡𝐞 𝐃𝐞𝐦𝐨:
+### 🌐 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐭𝐡𝐞 𝐃𝐞𝐦𝐨: https://dreamy-shortbread-838281.netlify.app/
 
-### 🧑‍💻 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛:
+### 🧑‍💻 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛:https://github.com/creator79/CodeBox
+
+### 📸 SnapShot
+![image](https://github.com/creator79/CodeBox/assets/72148636/65c0f322-b2fb-4b23-9f4f-7a99eb98ee0a)
+
+
